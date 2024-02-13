@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14043213840",
+    "project_id": "infoapp-24cdd",
+    "storage_bucket": "infoapp-24cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14043213840:android:75eb0199988df268979a95",
+        "android_client_info": {
+          "package_name": "com.example.info_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Wv3UAnaYcvxBFUUrMFgmXoFjdKiI-kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
